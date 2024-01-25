@@ -45,14 +45,12 @@ body{
     padding: 10px 10px;
     display: block;
     margin: 5px auto;
-    /* padding: 0; */
     border: none;
     outline: none;
     background: #ef67;
     color: black;
     text-align: right;
     font-size: 5vmin;
-    /* background: transparent; */
 }
 
 .buttons-row{
